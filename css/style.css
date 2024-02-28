@@ -1,0 +1,22 @@
+body {
+    background-color:  bisque;
+}
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h2, h3, h4, h5, h6 {
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+
+img {
+    border-radius: 50% ;
+}
+
+li {
+    font-family: Caliri, sans-serif;
+    margin-bottom: 5px;
+}
