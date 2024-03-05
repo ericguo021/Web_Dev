@@ -14,9 +14,29 @@ h2, h3, h4, h5, h6 {
 
 img {
     border-radius: 50% ;
+    margin: auto;
 }
 
 li {
     font-family: Caliri, sans-serif;
     margin-bottom: 5px;
 }
+
+.my-class-footer {  /* This is a class selector*/
+    color: red;
+}
+
+#title_id { 
+    color: green;
+} 
+
+a[target] {
+    font-size: x-large;
+    border: 5px rgb(19, 190, 19) dotted;
+}
+
+main > article {
+    background-color: yellowgreen;
+}
+
+footer p {color: blueviolet}
